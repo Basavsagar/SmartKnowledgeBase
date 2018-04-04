@@ -1,0 +1,300 @@
+ie11-ui-medrec- default select button display diff non default button lead us --- DMR
+load bar pop ad med dmr/pml stat dynam poss confus --- DMR
+partialstructuredfreetextord direct slot show requir personalfavorit ui empty direct slot doesnt block --- PML
+us sporad receiv widget init fail er mess incorrect launch discharg recont --- DMR
+4.0 bas 1099 wel 1373 4.0 storedproc 1 sporad er dischargemedicationrecont sign electron prescrib eprescrib pleas --- ePrescription
+1287 for cas homem dischargemedicationrecont icon upd without refresh see cas --- MedHistory
+backspac delet med charact dischargemedicationrecont --- DMR
+826 3.4 cont pre storedproc 13 20130828-1029 freez form cal --- ePrescription
+mdd req choos controllsubst flag ye partialstructuredfreetextord mdd pref req set --- DMR
+upon hit cancel button personalfavorit edit mod no warn mess popup occ warn us med --- DMR
+prevy prescrib partialstructuredfreetextord med 3.4 sp12 cont 04011201 pri ver result freez sign clos abl resolv --- DMR
+nee policy nam chang electronicprescriptionofcontrolledsubst audit report start ready instead --- ePrescription
+control med personalfavorit mdd valu label mdd quick collaps allow us sign without output --- DMR
+500 er prescrib erenew 1207 see --- PharmacyWorklist
+un determin med control inform msg occ twic instead cas strength --- DMR
+can drag personalfavorit med screen --- DMR
+form check run clinicalcheck slot chang --- Clinicalchecking
+nee policy nam chang electronicprescriptionofcontrolledsubst audit report start ready instead cre clon --- PharmacyWorklist
+nee policy nam chang electronicprescriptionofcontrolledsubst audit report start ready instead cre clon --- PharmacyWorklist
+storedproc 13 1049 nee policy nam chang electronicprescriptionofcontrolledsubst audit report start ready instead --- ePrescription
+prereq 1 tab fav edit mod aft ad tab hit new sect sect nt pop ca nt sav personalfavorit --- PharmacyWorklist
+eprescrib cop med produc wrong er mess eprescrib cop seem act print output --- ePrescription
+50+ med ad patientmedicationl script er see cindy s --- DMR
+partialstructuredfreetextord med personalfavorit ui nt show quant refil short --- DMR
+personalfavorit allow launch old non 4.0 cont act return er funct yet avail --- PharmacyWorklist
+us without dea prescrib controllsubst --- ePrescription
+personalfavorit ui load screen freez ad clos control med eprescrib output spec cas see --- DMR
+can prescrib med without label quant slot prescrib slot valu doesnot print e-prescrib --- DMR
+form check run chang dos med tak personalfavorit form dis --- PharmacyWorklist
+when prescrib mod hit edit button us sent first tab edit mod instead cur --- DMR
+when ad partialstructuredfreetextord med personalfavorit edit mod unit output refil slot --- DMR
+prescrib icon show personalfavorit med --- PML
+match process occ correct --- DMR
+medicationrecont personalfavorit slight lag tim drag meds/section --- DMR
+med dissapear click immedy hit edit person --- DMR
+us without electronicprescriptionofcontrolledsubst provid abl attempt 2 fact eprescib controllsubst personalfavorit dischargemedicationrecont --- ePrescription
+cancel benefit plan dialog head shown --- DMR
+prescrib plan ver mess cut electronicprescriptionofcontrolledsubst pharm --- ePrescription
+if us access cre bvc system fat erenew --- PharmacyWorklist
+personalfavorit form check run med personalfavorit default strength --- DMR
+help button print monograph engl span print prescrib dispens non-dispensable --- DMR
+clin us ca nt read import mess return clinicalcheck paty med list --- PharmacyWorklist
+print opt head webp dialog nee spac --- DMR
+click print icon dropdown dischargemedicationrecont caus sort by drug --- DMR
+med dropdown person personalfavorit doesnt dissapear click --- PML
+delay print output opt ar display person personalfavorit ed patients/ --- DMR
+ad tab text grey upon re-entering edit mod person personalfavorit list 5 --- DMR
+unit field requir eprescrib cop patientmedicationl --- DMR
+you cre prescrib schedule 2 controllsubst numb --- ePrescription
+audit policy ready cre sign audit success audit databas --- ePrescription
+when drag med quick reach --- HML
+cont medicationrecont person personalfavorit help button doesnt --- PML
+erenew clinicalcheck display alert med result form --- PharmacyWorklist
+ver screen freez press x erenew workl prescrib ver screen incorrect show --- DMR
+vw_med_list view pul fre text med incorrect --- DMR
+press personalfavorit widget slot without put valu press anoth slot result widget collaps grey --- PML
+partialstructuredfreetextord med ad patientmedicationl personalfavorit revert old fre text med patientmedicationl result freez patientmedicationl --- DMR
+sav personalfavorit button doesnt work ed dischargemedicationrecont patientmedicationl dischargemedicationrecont p0 sint block valid p0 charm --- DMR
+when ad partialstructuredfreetextord med patientmedicationl personalfavorit get invalid slot --- PML
+med sav non ed context output slot chang ed context eprescrib cop disch print --- DMR
+sav med prevy ed context non ed context patientmedicationl result eprescrib cop discharg fre text output --- DMR
+sc al versions- medicationrecont dischargemedicationrecont mod window cutoff follow --- other
+drag med tooltip anoth tab result tooltip staying-see attach er occ sp4 --- DMR
+prn reason requir hml sourc prevy ed dc med import med --- DMR
+when search paty ed chart select quick launch dischargemedicationrecont postpon allergy asmt dischargemedicationrecont --- HML
+clon enh extend pref print rx --- ePrescription
+enh extend pref print rx --- ePrescription
+allergy assess within ord --- Clinicalchecking
+allergy assess within ord --- Clinicalchecking
+enh extend pref print rx --- ePrescription
+allergy assess within ord --- Clinicalchecking
+enh support ord differenty alph ndc --- KDI
+css express analys replac --- KDI
+3.4 build break due clindoc --- other
+the unit field e-renewal confirm dialog display valu prescrib new --- PharmacyWorklist
+homem fail --- HML
+discharg reconcil screen fail --- DMR
+clin desktop get fat log select homem --- HML
+jav compil fail medicationrecont --- DMR
+getorderablexml jav serv consum high cpu underload caus bad --- DMR
+edcallback workfow perform impact medicationrecont method --- PML
+launch admit reconcilliaiton workflow respons tim high --- DMR
+form incorrect run personalfavorit med prevy prescrib form overrid set --- DMR
+edtb prescrib discharg med upd continu slot valu med --- DMR
+edtb discharg med homem requir us fil mand slot op --- DMR
+the stat dropdown valu avail med recont homem collect dashboard --- DMR
+patientmedicationl workflow recogn controllsubst stat --- ePrescription
+un determin med control inform msg occ output slot --- DMR
+get er invalid slot nam spec unvalu quan slot dischargemedicationrecont --- DMR
+the handwrit stat disappear refresh prescrib icon dischargemedicationrecont patientmedicationl get upd --- PharmacyWorklist
+as phys ad med i nee way docu detail handwrit --- PharmacyWorklist
+req561355 as phys ad med i nee way docu detail handwrit --- PharmacyWorklist
+prescrib nam print prescrib us patientmedicationl workflow may caus delay --- DMR
+prescrib ent address incorrect stat level non-controlled med prescrib --- ePrescription
+un scroll homem collect med list --- MedHistory
+not reissu print control prescrib --- DMR
+control med diff schedule stat fed level correct ident refil --- ePrescription
+control med lock erenew mov act med --- PharmacyWorklist
+remov er mess stil occ personalfavorit paty without prescrib plan see --- DMR
+an ear refil dat year 3014 log us --- DMR
+can eprescrib med due er ndc numb --- ePrescription
+un valu unit slot patientmedicationl workflow --- DMR
+conflict verb reprint fail controllsubst --- ePrescription
+superv address us instead prescrib phys s ent address prescrib electronicprescriptionofcontrolledsubst --- PharmacyWorklist
+prescrib reissu print button dis med checkbox check pri ent --- PharmacyWorklist
+prescrib slot behavy inconsist mail retail ent prescrib valu med --- DMR
+allow refil controllsubst erenew us act med med match fed --- PharmacyWorklist
+get nad er erenew phys --- PharmacyWorklist
+control med avail print fail surescrib us fed on --- ePrescription
+morphin ident controllsubst eprescrib us fed on dea --- ePrescription
+verby ind prescrib origin intend eprescrib fail electron transmit patientmedicationl --- PharmacyWorklist
+med display correct controllsubst report mdd en --- DMR
+un perform two fact environ --- MedHistory
+superv remain attach prescrib remov --- DMR
+mdd slot stil requir prescrib quant slot --- DMR
+max dai dos continu partialstructuredfreetextord med med list man it continu reg structured --- DMR
+med display correct controllsubst report mdd --- DMR
+med ad personalfavorit quant valu requir mdd valu pref mdd req controllsubst --- DMR
+un clos dischargemedicationrecont empty med --- DMR
+when reprint successful electronicprescriptionofcontrolledsubst eprescrib verby ind eprescrib --- DMR
+block dea cert eprescrib controllsubst display reissu dispens rx on output slot --- PharmacyWorklist
+electronicprescriptionofcontrolledsubst erenew mov med patientmedicationl act workl caus warn mess every --- PharmacyWorklist
+unit refil output field must mand prescrib form altern en phys prescrib without --- PharmacyWorklist
+unit refil output field must mand prescrib form altern en phys prescrib without --- PharmacyWorklist
+import med list ccd mismatch icon miss admissionmedicationrecont med man paty med list paty record --- MedHistory
+if eprescrib turn hdx out us receiv er un sign complet discharg --- DMR
+abl eprescrib controllsubst patientmedicationl without two fact --- ePrescription
+abl eprescrib controllsubst --- ePrescription
+fail eprescib verbaig display eprescrib cop discharg electronicprescriptionofcontrolledsubst rx --- ePrescription
+a clin us abl view import inform med ui un access clinicalcheck --- DMR
+nee word at remov paty story handwrit --- DMR
+nee output valu confirm screen fre text prescrib two diff valu print --- DMR
+not abl prescrib schedule vi drug ent va --- ePrescription
+ca nt perform two fact auth environ slpa on/off switch --- PharmacyWorklist
+handwrit prescrib upd correct patientmedicationl renew/update --- PML
+us log dischargemedicationrecont ad homem inpaty visit config --- DMR
+report contain reconcil med us unstruct fre text form nee ident print --- DMR
+favorit part structured freetext med beng pul correct paty med --- DMR
+kdi widget xml plan ord malform ad med plan ord --- AMR
+debug artifact kdi widget prop --- KDI
+chang enableformularycheckoverrid property spec ad med personalfavorit --- DMR
+output xml string may compat brows ie vert xml load us --- DMR
+chang suilogger.pbc cal --- KDI
+kdi cont feb2015 ad dos form dos valu afreez cartridg inh dev medicationrecont cont --- other
+nee view on access discharg --- PharmacyWorklist
+tooltip freetext handwrit print confus the tooltip also chang structured partialstructuredfreetextord --- DMR
+eprescrib delet warn dialog upd handwrit --- DMR
+staff detail display ful display xml tag staff nam spec --- DMR
+er mess replac substitut paramet html tag 84009 br br erenew --- PharmacyWorklist
+mess us appropry erenew --- PharmacyWorklist
+system throws script er us without dischargemedicationrecont access right tri op --- DMR
+dischargemedicationrecont ip visit get upd op visit context launch dischargemedicationrecont paty head --- DMR
+dischargemedicationrecont ip visit get upd op visit context launch dischargemedicationrecont paty head --- DMR
+medicationrecont pass visioid visit context non-ambulatory acut visit bvc --- Clinicalchecking
+prescrib reissue- ont controllsubst prescrib print dmr/pml print dispens --- ePrescription
+er mess try ad refil cii medication- refil allow typ --- ePrescription
+prescrib reissue- ont controllsubst prescrib print dmr/pml print dispens --- ePrescription
+prescrib benefit plan dialog abl wrap text around field many charact the charact get --- DMR
+get appropry matc valid discrep hospit paty inform benefit plan inform column --- PharmacyWorklist
+res homem discharg med dat view clin sum look pres --- MedHistory
+us log erenew last plac med transact fail ie new med allow --- ePrescription
+us log patientmedicationl last plac med transact fail ie new med allow --- ePrescription
+wrong medh display ent select diff ent paty s --- MedHistory
+max dai dos fre text erx chang --- PharmacyWorklist
+wish charm eprescrib controllsubst electronicprescriptionofcontrolledsubst --- ePrescription
+nee support earliest fil dat cre prescrib --- PharmacyWorklist
+erenew deny max leng mess display --- PharmacyWorklist
+erenew fail forward pharm request pharm send dat prescrib sold --- PharmacyWorklist
+prescrib reissu print button dis med checkbox check pri ent --- PharmacyWorklist
+wish stat homem collect discharg recont clin sum navig ed --- DMR
+wish stat homem collect discharg recont clin sum navig ed --- DMR
+wish mov homem stat drop down clos sign button homem collect admissionmedicationrecont pil --- DMR
+prescrib reissu wish --- AMR
+wish mov homem stat drop down clos sign button homem collect admissionmedicationrecont pil --- DMR
+wish display prescrib ent icon clin sum --- PML
+wish mov homem stat drop down clos sign button homem collect admissionmedicationrecont pil --- DMR
+when cre print prescrib unit field inappropry display requir it opt print --- PML
+when cre print prescrib unit field inappropry display requir it opt print --- PML
+when cre print prescrib unit field inappropry display requir it opt print --- PML
+when cre print prescrib unit field inappropry display requir it opt print --- PML
+cmbr request ad prescrib reissu fil installshield ipr --- PharmacyWorklist
+wish stat homem collect discharg recont clin sum navig ed --- DMR
+when cre print prescrib unit field inappropry display requir it opt print --- PML
+prescrib reissu wish --- AMR
+eprescrib controllsubst wish --- ePrescription
+wish display prescrib ent icon clin sum --- PML
+wish display prescrib ent icon clin sum --- PML
+medicationrecont part match ind admissionmedicationrecont confus --- AMR
+deny renew request result confirm screen freez us un --- PharmacyWorklist
+print prescrib funct remov fre text med discharg --- DMR
+req558842 defin provid spec eprescrib --- ePrescription
+max dai dos fre text erx --- DMR
+max dai dos fre text --- DMR
+wish charm opr electronicprescriptionofcontrolledsubst report --- AMR
+in medicationrecont p doc us receiv workl er “ electron prescrib renew ” categ count --- ePrescription
+bri lgh continuedby query requir list dischargemedicationrecont docu sav multipl staff last 6 --- DMR
+ie-security settings/lowre screen trunt discharg med homem allergy dialog includ funct --- DMR
+duply string id --- Surescripts
+fat log off select discharg --- DMR
+pleas revert chang medicationrecont dev stream transact --- other
+sav admit recont result script er hang --- AMR
+homem link insid chart display --- HML
+sign ord homem --- AMR
+electronicprescriptionofcontrolledsubst enh charm merg 3.4 --- HML
+correct spel bvcvisitrequiredtitle cod chang cod review charm --- other
+jav er try load homem --- DMR
+er ful db --- other
+port er ful db --- other
+er dialog com discharg reconcil screen fail --- DMR
+crit system er op chart link ord --- AMR
+homem link --- RXFILL
+ad thrudatetime paramet med recont --- AMR
+incorrect med display prescrib confirm screen form altern select --- PharmacyWorklist
+wrong superv us when prinit reissu --- PML
+medicationrecont form form us import assess sav inprogress result assess appear --- DMR
+eprescrib includ ent s phon numb address enterpr phon --- ePrescription
+eprescrib includ ent s phon numb address enterpr phon --- ePrescription
+provid ad med breo dc medicationrecont eprescrib upondc med interchang --- ePrescription
+discharg medicationrecont personalfavorit if strength field fil ad ad clos spin --- DMR
+perform issu continu al homem --- DMR
+ther way view pharm prevy prescrib med sent long act pharm --- PharmacyWorklist
+dea cod alway avail bi --- ePrescription
+homem er run 4.1 bvt apach --- HML
+checkbox appear medicationrecont screens homem admissionmedicationrecont --- AMR
+outpaty sc 461 get crit system er due medicationrecont integr --- other
+3.4 init fail er mess op homem list hist paty --- DMR
+flat xml pop medmatchingstat dischargemedicationrecont med continu --- DMR
+when soar clin config cds en form us inform sent imprivat chang --- PharmacyWorklist
+nameid/ form saml request upn pass urn oas nam tc saml:2.0 nameid-format --- PharmacyWorklist
+when turn re-authentication pref ord electronicprescriptionofcontrolledsubst turn would get prompt --- DMR
+erenewrespons controllsubst sav saml --- ePrescription
+nee cleanup --- RXFILL
+imprivat activex control expect new property --- Surescripts
+the us log act complet try complet discharg --- ePrescription
+discharg recont mod capt chang homem continu wrong --- PharmacyWorklist
+nee app-model.xml chang newest imprivat vert --- other
+medicationrecont ci fail fit test 3.4 scrumbox --- other
+digit sign ncpdp mess us sha2withrs algorithm sha256 --- ePrescription
+elimin exceiv trac webserv respons form --- PharmacyWorklist
+cal hdx elig respons serv frequ try many --- ePrescription
+electronicprescriptionofcontrolledsubst dai audit report contain audit record print eprescrib controllsubst --- ePrescription
+e-prescrib pharm lookup cal hdx er ind invalid stat arizon --- ePrescription
+when us quot middl nick nam redisplay sav homem us would result widget fail init --- DMR
+for electronicprescriptionofcontrolledsubst dischargemedicationrecont impriivat auth display cutoff submit button --- PharmacyWorklist
+homem recont when attempt import med receiv sql input valid fail max_length valid --- DMR
+medicationrecont cod chang ed chart com test quiet failov due desktop jav layout serv log --- DMR
+ccda documetn med cod incorrect rxnorm term typ caus import med sect homem --- MedHistory
+er mess display homem collect receiv ccd paty s dat --- MedHistory
+discharg medicationrecont pathway sav clin alert --- Security
+a us without access med recont funct get er paty --- PharmacyWorklist
+dat bir paty 1 day comp benefit plan inform hospit paty --- PharmacyWorklist
+ad alert miss superv npi avoid surescrib perscrib --- Surescripts
+scdelegateaspect nul point --- MedHistory
+discharg med recont requir field homem auto-continued emerg depart context --- DMR
+patientmedicationl show perform clinicalcheck warn med without strength --- PharmacyWorklist
+in patientmedicationl refil slot clear form --- DMR
+us receiev er mess print partialstructuredfreetextord controllsubst already label print must --- DMR
+`get latest med history` link display inconsist confus --- AMR
+nee pres e-prescrib er mess due invalid stat --- ePrescription
+discharg reconcil discharg med when fre text phon numb dash zero --- ePrescription
+med sav personalfavorit prescrib detail sav output slot correct form rx s res --- DMR
+partialstructuredfreetextord med prescrib detail personalfavorit prescrib icon dml --- PML
+a prevy prescrib partialstructuredfreetextord ad personalfavorit giv us confirm --- PML
+when med mark erroneous/inactive paty record select clos med display black font instead --- PML
+pend prescrib icon display personalfavorit med --- PML
+in ie11 admissionmedicationrecont med man pan display incorrect --- PML
+if paty 500+ act cur med admit med recont show first --- DMR
+enterpr phon numb display correct print reprint --- ePrescription
+superv appear prescrib gen --- PML
+aft ed discharg list sav mov homem ed discharg list trig clinicalcheck --- DMR
+us receiev er mess print partialstructuredfreetextord controllsubst already label print must --- DMR
+us receiv er log sign admissionmedicationrecont homem import max dai --- DMR
+clin sum homem collect mod window cut last sav nam --- MedHistory
+med display purpl font clinicalcheck alert --- PharmacyWorklist
+part structured fre text med fre text med display ent by/continued by us dischargemedicationrecont report/pati --- DMR
+showstop expery kdi issu collect complet homem recont admit hist --- DMR
+clar er mess nee end us due er follow paramet spinumb --- MedHistory
+when medicationh pref defin er mess display the us clos er continu --- MedHistory
+us reciev indefinit us hang ad med personalfavorit old --- PharmacyWorklist
+indefinit us hang 1207 fat log 826 eprescrib --- ePrescription
+when us med personalfavorit output slot empty op med sent resolv clin --- DMR
+controllsubst er mess appear twic consecut --- PharmacyWorklist
+check prescrib stat caus fat --- ePrescription
+print dispens prescrib dischargemedicationrecont allow reprint eprescrib cop controllsubst --- ePrescription
+us hang pul partialstructuredfreetextord med dischargemedicationrecont --- Clinicalchecking
+certain policy ev provid audit record includ mrc electronicprescriptionofcontrolledsubst audit --- ePrescription
+sc allow prescrib eprescrib med controllsubst site\prescriber --- ePrescription
+clinicalcheck alert disppear valu prn mak clin decid mak tough --- DMR
+mislead er mess appear homem phys s nat provid ident less 10 --- PML
+print prescrib show dispens numb dispens unit thu cre confus man work --- PharmacyWorklist
+discharg recont homem collect perform clos --- DMR
+clinicalcheck alert result erenew workl form --- PharmacyWorklist
+chart allergy paty visit caus fat --- ICD10
+fat exceiv dischargemedicationrecont upon form cal naratrib --- HML
+controllsubst prescrib ad person personalfavorit abl prescrib clinicalcheck --- DMR
+align scx quiet failov & scservice --- ePrescription
+med com env --- Clinicalchecking
+us eprescrib partialstructuredfreetextord mark cotrol subst --- ePrescription
+can send med without 2 fact pref en electronicprescriptionofcontrolledsubst cap control personalfavorit med erx --- DMR
+med rout display controllsubst prescrib --- ePrescription
